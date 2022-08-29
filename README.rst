@@ -48,3 +48,8 @@ License
 LICENSE_
 
 .. _LICENSE: https://github.com/marshki/MagicNumber/blob/master/LICENSE
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/9158b13db2df41f6821ae6eced21b19f
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/gh/marshki/MagicNumber?utm_source=github.com&utm_medium=referral&utm_content=marshki/MagicNumber&utm_campaign=Badge_Grade_Settings
